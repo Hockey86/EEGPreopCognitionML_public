@@ -1,0 +1,12 @@
+matplotlib==3.7.2
+numpy==1.22.0
+pacmap==0.7.0
+pandas==2.0.3
+pingouin==0.5.3
+scikit_learn==1.0.2
+scikit_optimize==0.9.0
+scipy==1.11.1
+seaborn==0.12.2
+statsmodels==0.14.0
+tqdm==4.65.0
+umap_learn==0.5.3
