@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="DuSN_02X3kS1vwABvy1z">
+    <mxGraphModel dx="954" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bSOoiIinXivzMGkZC5Cx-1" target="bSOoiIinXivzMGkZC5Cx-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;469 participants under randomization in MINDDS&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bSOoiIinXivzMGkZC5Cx-2" target="bSOoiIinXivzMGkZC5Cx-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;394 participants&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;306 participants&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-7" value="75 removed due to&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;prespecified exclusion criteria in MINDDS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="295" y="157" width="165" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="333" as="sourcePoint" />
+            <mxPoint x="290" y="333" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-9" value="88 without EEG or with excessive artifact in EEG" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="295" y="301" width="136" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-10" value="&lt;b&gt;Model Development Dataset&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="142" y="30" width="136" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-11" value="&lt;b&gt;External Validation Dataset&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="459" y="30" width="136" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bSOoiIinXivzMGkZC5Cx-13" target="bSOoiIinXivzMGkZC5Cx-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;105 participants&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="447" y="90" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bSOoiIinXivzMGkZC5Cx-15" target="bSOoiIinXivzMGkZC5Cx-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-15" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;93 participants&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="447" y="230" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;92 participants&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="447" y="370" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="190" as="sourcePoint" />
+            <mxPoint x="607" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-18" value="12 without EEG or with excessive artifact in EEG" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="612" y="157" width="136" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="333" as="sourcePoint" />
+            <mxPoint x="607" y="333" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSOoiIinXivzMGkZC5Cx-20" value="1 without preoperative aMoCA" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="612" y="301" width="138" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
